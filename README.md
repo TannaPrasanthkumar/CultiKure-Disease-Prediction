@@ -30,7 +30,7 @@ Plant diseases can significantly impact crop health and yield. Early detection a
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/yourusername/CultiKure.git
+   git clone https://github.com/ANSHJOSHI1811/CultiKure-Disease-Prediction.git
 2. Install Python Packages
     ```shell
    pip install -r requirements.txt
